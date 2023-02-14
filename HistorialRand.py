@@ -1,3 +1,4 @@
+##SI JALA FIRMA EL EMMZ
 import random
 import csv
 import time
